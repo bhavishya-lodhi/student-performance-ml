@@ -168,7 +168,7 @@ Low
 Medium
 High
 
-5. TOOLS AND TECHNOLOGIES
+#5. TOOLS AND TECHNOLOGIES
 5.1 Python
 
 Python was used as the primary programming language for implementing the machine learning project. Python provides a simple syntax and a wide range of libraries for data processing, machine learning, and visualization.
